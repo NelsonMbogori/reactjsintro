@@ -23,7 +23,6 @@ body {
   .booklist {
     grid-template-columns: repeat(3, 1fr);
     align-items: start;
-    background-color: #222;
   }
 
 }
@@ -55,4 +54,10 @@ h1 {
   text-align: center;
   margin-top: 4rem;
   text-transform: capitalize;
+}
+.book h4{
+  color: #617d98;
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+  letter-spacing: 2px;
 }
