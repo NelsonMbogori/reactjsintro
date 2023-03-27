@@ -19,7 +19,6 @@ function Book(){
         <Image/>
         <Title/>
         <Author/>
-        
     </article>
 }
 const Image  = ()=> <h2><img src="https://m.media-amazon.com/images/I/91zjmw1z7BL._AC_UL480_FMwebp_QL65_.jpg"/></h2>
